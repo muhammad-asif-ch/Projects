@@ -49,7 +49,7 @@ The game is based on the **Minimax algorithm**, a recursive decision-making proc
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/tic-tac-toe-minimax.git
+git clone https://muhammad-asif-ch/Projects/tic-tac-toe-minimax.git
 cd tic-tac-toe-minimax
 
 ### 2. Run the game in Jupyter Notebook
