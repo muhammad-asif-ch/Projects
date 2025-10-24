@@ -21,28 +21,12 @@ This version is optimized for **Jupyter Notebook** and includes smooth animation
 
 🎮 Tic Tac Toe using Minimax + Alpha-Beta Pruning (Jupyter Version)
 
- <!-- Sample Tic Tac Toe board with X and O (inline SVG) -->
-<div align="center">
-
-# Tic Tac Toe — Sample Game
-
-<img alt="Tic Tac Toe - Sample" src="data:image/svg+xml;utf8,
-%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%20width='300'%20height='300'%3E
-%3Crect%20width='100%25'%20height='100%25'%20fill='%23ffffff'/%3E
-%3Cg%20stroke='%23000000'%20stroke-width='8'%20stroke-linecap='round'%3E
-%3Cline%20x1='100'%20y1='10'%20x2='100'%20y2='290'/%3E
-%3Cline%20x1='200'%20y1='10'%20x2='200'%20y2='290'/%3E
-%3Cline%20x1='10'%20y1='100'%20x2='290'%20y2='100'/%3E
-%3Cline%20x1='10'%20y1='200'%20x2='290'%20y2='200'/%3E
-%3C/g%3E
-%3Ctext%20x='50'%20y='95'%20font-size='80'%20text-anchor='middle'%20dominant-baseline='middle'%20font-family='Arial'%20fill='%23d32f2f'%3EX%3C/text%3E
-%3Ctext%20x='150'%20y='155'%20font-size='80'%20text-anchor='middle'%20dominant-baseline='middle'%20font-family='Arial'%20fill='%23007bb8'%3EO%3C/text%3E
-%3Ctext%20x='250'%20y='95'%20font-size='80'%20text-anchor='middle'%20dominant-baseline='middle'%20font-family='Arial'%20fill='%23d32f2f'%3EX%3C/text%3E
-%3C/text%3E
-%3C/svg%3E" />
-
-</div>
-
+   1   2   3
+A  _ | _ | _
+  ---+---+---
+B  _ | X | O
+  ---+---+---
+C  X |   | O
 
 Enter your move (1-9): - X
 
