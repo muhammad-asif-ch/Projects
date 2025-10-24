@@ -21,12 +21,8 @@ This version is optimized for **Jupyter Notebook** and includes smooth animation
 
 🎮 Tic Tac Toe using Minimax + Alpha-Beta Pruning (Jupyter Version)
 
-   1   2   3
-A  _ | _ | _
-  ---+---+---
-B  _ | X | O
-  ---+---+---
-C  X |   | O
+![Tic Tac Toe Sample Game](https://raw.githubusercontent.com/muhammadasifcs/assets/main/tictactoe-sample.png)
+
 
 Enter your move (1-9): - X
 
